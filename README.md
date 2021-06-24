@@ -1,2 +1,2 @@
-# rac_intro_to_programming
+# RAC Intro to Programming
 Materials for RAC Intro to Programming
